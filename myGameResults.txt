@@ -1,0 +1,63 @@
+Python 3.8.1 (v3.8.1:1b293b6006, Dec 18 2019, 14:08:53) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========== RESTART: /Users/anniewon/Desktop/Code for hangman game.py ==========
+Welcome to Hangman!
+There are multiple difficulty settings shown below:
+	1. Beginner (10 lives)
+	2. Intermediate (8 lives)
+	3. Expert (6 lives)
+	4. Advanced (4 lives)
+	5. Insane (2 lives)
+Please choose a difficulty by typing its number: 1
+
+You have chosen Beginner and will receive 10 lives.
+
+Time to guess a letter! You have 10 lives remaining.
+-----
+Your guess: a
+
+Whoops! That letter was not found. You now have 9 lives remaining.
+-----
+Your guess: b
+
+Whoops! That letter was not found. You now have 8 lives remaining.
+-----
+Your guess: c
+
+Whoops! That letter was not found. You now have 7 lives remaining.
+-----
+Your guess: d
+
+Whoops! That letter was not found. You now have 6 lives remaining.
+-----
+Your guess: e
+
+Good job! That letter was found. You still have 6 lives remaining.
+-e--e
+Your guess: f
+
+Whoops! That letter was not found. You now have 5 lives remaining.
+-e--e
+Your guess: g
+
+Whoops! That letter was not found. You now have 4 lives remaining.
+-e--e
+Your guess: h
+
+Whoops! That letter was not found. You now have 3 lives remaining.
+-e--e
+Your guess: i
+
+Whoops! That letter was not found. You now have 2 lives remaining.
+-e--e
+Your guess: j
+
+Whoops! That letter was not found. You now have 1 lives remaining.
+-e--e
+Your guess: k
+
+<sense> 
+game lost!
+>>> 
